@@ -3,12 +3,16 @@
     margin: 0;
     padding: 0;
     background-color: #f0f0f0;
+    border: none;
+    border-radius: 10px;
 }
+
 .banner{
     background-color: #3498db50;
     color: #fff;
     padding: 50px;
-    text-align: center;
+    text-align: left;
+    border-end-end-radius: 5px;
 }
 .image-container{
     position: absolute;
@@ -19,4 +23,19 @@
 .image-container img{
     max-width: 300px;
     height: auto;
+}
+
+button{
+    background-color: #4CAF50;
+    padding: 15px 30px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.right-black{
+    color: rgba(0, 0, 0, 0.587);
+    float: left;
+}
+.left-black{
+    color: black;
 }
