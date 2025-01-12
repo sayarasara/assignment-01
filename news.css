@@ -1,0 +1,27 @@
+.body{
+   font-family: sans-serif;
+   margin: 0;
+   padding: 20px;
+}
+.container {
+    max-width: 800px;
+    margin: auto;
+}
+h1{
+    text-align: left;
+    margin: auto;
+}
+.n-item {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 7px;
+}
+.n-item img {
+    width: 200px;
+    height: auto;
+    float: left;
+}
+button {
+    text-align: right;
+}
