@@ -28,6 +28,9 @@ cursor:pointer;
     padding: 15px;
     border: 1px solid #ccc;
     border-radius: 5px;
-    width: 400px;
+    width: 500px;
     text-align: center;
+}
+.b:hover {
+    background-color: aqua;
 }
